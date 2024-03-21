@@ -1,3 +1,4 @@
 db_sqlite/stock_summary_2021.sqlite filter=lfs diff=lfs merge=lfs -text
 db_sqlite/stock_summary_2022.sqlite filter=lfs diff=lfs merge=lfs -text
 db_sqlite/stock_summary_2023.sqlite filter=lfs diff=lfs merge=lfs -text
+db_sqlite/stock_summary_2024.sqlite filter=lfs diff=lfs merge=lfs -text
