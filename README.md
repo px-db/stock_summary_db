@@ -1,2 +1,2 @@
 # stock_summary_db
-Data Base SQLite Stock Summary
+Data Base SQLite Stock Summary (deprecated)
